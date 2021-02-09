@@ -1,5 +1,5 @@
-all:
-    javac Main.java
+all: 	
+	javac Main.java
+run:
+	java Main
 
-runL
-    java Main
